@@ -1,0 +1,2 @@
+# simplifyzer
+Simple file analyzer
